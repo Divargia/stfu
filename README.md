@@ -1,4 +1,11 @@
-# stfu
+#           __    _____      
+#   _______/  |__/ ____\_ __ 
+#  /  ___/\   __\   __\  |  \
+#  \___ \  |  |  |  | |  |  /
+# /____  > |__|  |__| |____/ 
+#      \/                    
+
+
 Forced root access for programs
 
 ## Instalation guide
