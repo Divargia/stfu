@@ -8,9 +8,10 @@
 ```
 
 ## Instalation guide
-1. ```make```
-2. ```bash
-   sudo make install```
+1. ```bash
+   make
+3. ```bash
+   sudo make install
 
 ## Dependenies
 1. Hard
