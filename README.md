@@ -7,6 +7,9 @@
      \/
 ```
 
+>[!IMPORTANT]
+>The program works only on Linux!
+
 ## Instalation guide
 1. ```bash
    make
